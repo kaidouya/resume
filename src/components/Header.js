@@ -10,11 +10,11 @@ const Header = props => (
       <div className="inner">
         <h1>品森的個人網站</h1>
         <p>
-          A fully responsive site template designed by{' '}
-          <a href="https://html5up.net">HTML5 UP</a> and released
+          目前測試中我是文字我是文字我是文字我是文字{' '}
+          <a href="https://www.google.com.tw">部落格網址</a>
           <br />
-          for free under the{' '}
-          <a href="https://html5up.net/license">Creative Commons</a> license.
+          文字我是文字我是文字{' '}
+          <a href="https://www.google.com.tw">相關作品頁網址</a>
         </p>
       </div>
     </div>
