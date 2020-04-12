@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter - Dimension V2',
-    author: 'Hunter Chang',
-    description: 'A Gatsby.js V2 Starter based on Dimension by HTML5 UP',
+    title: '品森的個人網站',
+    author: 'Chao Pin Sen',
+    description: '個人履歷網站，介紹並記錄著自己...',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
