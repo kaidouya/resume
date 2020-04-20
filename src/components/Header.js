@@ -26,7 +26,7 @@ const Header = props => (
               props.onOpenArticle('intro')
             }}
           >
-            Intro
+            介紹
           </button>
         </li>
         <li>
@@ -35,7 +35,7 @@ const Header = props => (
               props.onOpenArticle('work')
             }}
           >
-            Work
+            作品集
           </button>
         </li>
         <li>
@@ -44,7 +44,7 @@ const Header = props => (
               props.onOpenArticle('about')
             }}
           >
-            About
+            部落格
           </button>
         </li>
         <li>
@@ -53,7 +53,7 @@ const Header = props => (
               props.onOpenArticle('contact')
             }}
           >
-            Contact
+            聯絡
           </button>
         </li>
       </ul>

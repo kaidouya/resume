@@ -25,8 +25,6 @@ const Layout = ({ children, location }) => {
   //   )
   // }
 
-
-
   return (
     <StaticQuery
       query={graphql`
